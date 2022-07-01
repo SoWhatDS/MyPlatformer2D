@@ -97,3 +97,22 @@ MonoBehaviour:
     - {fileID: 21300000, guid: ebd32a2c8ba394a4b825cf950dec49ce, type: 2}
     - {fileID: 21300000, guid: 492714109bd554147b59ba1d741a2d0b, type: 2}
     - {fileID: 21300000, guid: 4973a926fc162c049b254bae349609cd, type: 2}
+  - Track: 8
+    Sprites:
+    - {fileID: 438433177, guid: e3a69b2fd537d0a4dbec43db340b8af4, type: 3}
+    - {fileID: -989451003, guid: e3a69b2fd537d0a4dbec43db340b8af4, type: 3}
+    - {fileID: 107851257, guid: e3a69b2fd537d0a4dbec43db340b8af4, type: 3}
+    - {fileID: -952321459, guid: e3a69b2fd537d0a4dbec43db340b8af4, type: 3}
+    - {fileID: 1733631869, guid: e3a69b2fd537d0a4dbec43db340b8af4, type: 3}
+    - {fileID: -697263221, guid: e3a69b2fd537d0a4dbec43db340b8af4, type: 3}
+    - {fileID: 68752715, guid: e3a69b2fd537d0a4dbec43db340b8af4, type: 3}
+    - {fileID: 1579418434, guid: e3a69b2fd537d0a4dbec43db340b8af4, type: 3}
+    - {fileID: 1196175842, guid: e3a69b2fd537d0a4dbec43db340b8af4, type: 3}
+    - {fileID: -120571345, guid: e3a69b2fd537d0a4dbec43db340b8af4, type: 3}
+    - {fileID: -509213331, guid: e3a69b2fd537d0a4dbec43db340b8af4, type: 3}
+    - {fileID: 1736865962, guid: e3a69b2fd537d0a4dbec43db340b8af4, type: 3}
+    - {fileID: -2011880764, guid: e3a69b2fd537d0a4dbec43db340b8af4, type: 3}
+    - {fileID: -1340573217, guid: e3a69b2fd537d0a4dbec43db340b8af4, type: 3}
+    - {fileID: 1323740198, guid: e3a69b2fd537d0a4dbec43db340b8af4, type: 3}
+    - {fileID: -111040848, guid: e3a69b2fd537d0a4dbec43db340b8af4, type: 3}
+    - {fileID: 964787491, guid: e3a69b2fd537d0a4dbec43db340b8af4, type: 3}

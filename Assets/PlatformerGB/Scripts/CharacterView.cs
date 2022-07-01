@@ -6,6 +6,8 @@ namespace Platformer2D
     {
         [Header("Settings")]
         [SerializeField] private SpriteRenderer _spriteRenderer;
+        [SerializeField] private Rigidbody2D rigidbody;
+        [SerializeField] private Collider2D collider;
         [SerializeField] private float _walkSpeed = 1.0f;
         [SerializeField] private float _jumpSpeed = 2.0f;
         [SerializeField] private float _animationsSpeed = 3.0f;
@@ -28,6 +30,9 @@ namespace Platformer2D
 
         public float GroundLevel  => _groundLevel;
 
-        public float AnimationsSpeed  => _animationsSpeed; 
+        public float AnimationsSpeed  => _animationsSpeed;
+
+        public Rigidbody2D Rigidbody  => rigidbody;
+        public Collider2D Collider  => collider; 
     }
 }

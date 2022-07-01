@@ -10,6 +10,7 @@ namespace Platformer2D
         Jump,
         Die,
         Block,
-        Crouch
+        Crouch,
+        coin_rotation
     }
 }
